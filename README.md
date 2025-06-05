@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Ram Reddy Alla</h1>
 
 <p align="center">
-I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hyderabad</strong>, driven by a strong fascination with technology and a desire to create meaningful solutions. With a solid foundation in software development and a natural curiosity for problem-solving, I aspire to grow as a software developer in today's fast-paced tech world. I’m constantly exploring the latest trends in coding and software engineering, and I stay committed to continuous learning and personal growth in this ever-evolving field.
+I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hyderabad</strong>, fascinated by technology and driven to build meaningful solutions. With a strong foundation in software development and a natural curiosity for problem-solving, I aspire to grow as a software developer in today's fast-paced tech world. I stay up-to-date with the latest trends in coding and software engineering and am committed to continuous learning and growth in this ever-evolving field.
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/1YXq17YXn98AAAAd/chill-dude-chill.gif">
@@ -30,7 +30,7 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
   <h2>💻 Projects</h2>
 
   <article>
-    <h3>May 2025 — AI- Interview Preparation Tool</h3>
+    <h3>AI-Interview Preparation Tool</h3>
     <p><strong>Tech Stack:</strong> Gemini API, Voice Input, Natural Language Processing</p>
     <p>
       Developed a standalone AI-powered visa interview preparation tool integrating Gemini API for real-time feedback, voice input, and NLP to create an interactive user experience. Focused on continuous improvement through experimentation and user feedback.
@@ -120,9 +120,8 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
 <h3 align="left">🌐 Connect with me</h3>
 
 ----
-<p align="left">
-<a href="https://linkedin.com/in/sriramreddyalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriramreddyalla" height="30" width="40" /></a
-<a href="https://leetcode.com/u/sriii_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leonik2367" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sriramreddyalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriramreddyalla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sriii_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vicky_ska" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srirammm_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srirammm_15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srirammm_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
 <a href="https://instagram.com/sriram_alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
