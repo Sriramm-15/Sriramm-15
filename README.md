@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sri Ram Reddy Alla</h1>
 
-<p align="center">
-I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hyderabad</strong>, fascinated by technology and driven to build meaningful solutions. With a strong foundation in software development and a natural curiosity for problem-solving, I aspire to grow as a software developer in today's fast-paced tech world. I stay up-to-date with the latest trends in coding and software engineering and am committed to continuous learning and growth in this ever-evolving field.
+<p align="left">
+I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hyderabad</strong>, fascinated by technology and driven to build meaningful solutions. With a strong foundation in software development and a natural curiosity for problem-solving, 
+ I aspire to grow as a software developer in today's fast-paced tech world. I stay up-to-date with the latest trends in coding and software engineering and am committed to continuous learning and growth in this ever-evolving field.
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/1YXq17YXn98AAAAd/chill-dude-chill.gif">
@@ -117,15 +118,43 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
   </a>
 </p>
 
+## 📊 GitHub Stats Summary
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriramm-15&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriramm-15&theme=dark&utcOffset=5.5" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriramm-15&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriramm-15&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriramm-15&theme=dark" />
+</p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriramm-15&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="vignesh1507" /></p>
+## 📈 Contribution Graph
+
+<img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sriramm-15&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff" />
+
+<br><br>
+
+## 🏆 GitHub Trophies
+
+<img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriramm-15&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+
+---------------------------------------------
+
 <h3 align="left">🌐 Connect with me</h3>
 
 ----
+
 <a href="https://linkedin.com/in/sriramreddyalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriramreddyalla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sriii_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vicky_ska" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srirammm_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srirammm_15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srirammm_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
 <a href="https://instagram.com/sriram_alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
-</p>
+</P>
+
