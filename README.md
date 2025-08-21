@@ -12,7 +12,7 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
 💬 Ask me anything about ML, AI, or Software Development — always happy to share and learn!  
 🚀 I'm also open to freelance opportunities in AI/ML — excited to collaborate and contribute to impactful projects!
 
-- 📫 How to reach me **epicsriram15@gmail.com**
+- 📫 How to reach me **sriram.alla68@gmail.com**
 
 
 ### 🎓 Education
@@ -21,7 +21,6 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
 - **Degree:** B.Tech in Computer Science and Engineering  
 - **Year of Graduation:** 2025  
 - **CGPA:** 8.71 / 10  
-
 
 
 ### 🏆 Achievements
@@ -134,6 +133,7 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriramm-15&theme=dark" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sriramm-15&label=Profile%20Views&color=ff69b4&style=flat-square)
 
 ## 📈 Contribution Graph
 
