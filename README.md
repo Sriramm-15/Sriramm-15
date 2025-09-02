@@ -31,7 +31,6 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
  
 <section>
   <h2>💻 Projects</h2>
-
   <article>
     <h3>AI-Interview Preparation Tool</h3>
     <p><strong>Tech Stack:</strong> Gemini API, Voice Input, Natural Language Processing</p>
@@ -41,22 +40,37 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
     <p><strong>Link:</strong> <a href="https://github.com/Sriramm-15/ai-visa-interview-prep" target="_blank" rel="noopener noreferrer">Code</a></p>
   </article>
 
+<section id="projects">
   <article>
     <h3>AI Medical Chatbot</h3>
-    <p><strong>Tech Stack:</strong> Machine Learning, Python, NLP, Flask, TensorFlow</p>
+    <p><strong>Tech Stack:</strong> Python, NLP, Flask, TensorFlow</p>
     <p>
-      Collaborated in a team of 3 to build an AI medical chatbot for infectious disease prediction using deep learning and NLP. Integrated multilingual support and voice input to enhance user interaction.
+      Developed an AI-driven chatbot for infectious disease prediction using deep learning and NLP.
+      Integrated multilingual support and voice input to enhance accessibility. Achieved ~85% accuracy
+      in test scenarios, enabling scalable patient triage.
     </p>
-    <p><strong>Link:</strong> <a href="https://github.com/Sriramm-15/AI-Medical-Chatbot" target="_blank" rel="noopener noreferrer">Code</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/Sriramm-15/AI-Medical-Chatbot" target="_blank" rel="noopener noreferrer">View Code</a></p>
   </article>
 
   <article>
     <h3>Liver Fibrosis Severity Prediction</h3>
-    <p><strong>Tech Stack:</strong> Machine Learning, Signal Processing</p>
+    <p><strong>Tech Stack:</strong> Machine Learning, Data Science, Signal Processing</p>
     <p>
-      Worked as part of a team of 3 to develop a predictive model for liver fibrosis severity in chronic HBV patients. Used physical layer signal features combined with machine learning to analyze medical data for accurate disease staging, aiding early diagnosis and treatment planning.
+      Built predictive models to classify liver fibrosis severity in chronic HBV patients using clinical
+      datasets with serum and physical-layer markers. Achieved ~80% classification accuracy,
+      supporting data-driven medical decisions and early diagnosis.
     </p>
-    <p><strong>Link:</strong> <a href="https://github.com/Sriramm-15/Severity-of-Liver-Fibrosis-for-Chronic-HBV-Based-on-Physical-Layer-With-Serum-Markers" target="_blank" rel="noopener noreferrer">Code</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/Sriramm-15/Severity-of-Liver-Fibrosis-for-Chronic-HBV-Based-on-Physical-Layer-With-Serum-Markers" target="_blank" rel="noopener noreferrer">View Code</a></p>
+  </article>
+
+  <article>
+    <h3>Emotion Meme Picker</h3>
+    <p><strong>Tech Stack:</strong> JavaScript, HTML, CSS</p>
+    <p>
+      Engineered a responsive meme picker web app with emotion-based filters and GIF/static image
+      previews. Optimized DOM rendering to achieve 30% faster load times and improved user engagement.
+    </p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/Sriramm-15/Emotion-Meme-Picker" target="_blank" rel="noopener noreferrer">View Code</a></p>
   </article>
 </section>
 
