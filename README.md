@@ -28,6 +28,8 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
 - ✅ Solved over **700 Data Structures and Algorithms (DSA)** problems across various coding platforms.
 - 🏅 Earned prestigious **50-Day** and **100-Day Coding Streak** badges on **LeetCode**.
 - 🥇 Top 5 Finalist in **Internal Smart India Hackathon (SIH)** at **CMR Technical Campus**.
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Sriramm-15&label=Profile%20Views&color=ff69b4&style=flat-square)
  
 <section>
   <h2>💻 Projects</h2>
@@ -147,7 +149,7 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriramm-15&theme=dark" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sriramm-15&label=Profile%20Views&color=ff69b4&style=flat-square)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sriramm-15&theme=microsoft-dark)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 
