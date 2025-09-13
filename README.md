@@ -9,7 +9,7 @@ I'm a passionate Computer Science graduate from <strong>CMR Technical Campus, Hy
 
 🌱 I’m currently learning React and excited to build projects that bring ideas to life.  
 🤖 Passionate about Machine Learning and Artificial Intelligence — I love exploring how tech can solve real-world problems.  
-💬 Ask me anything about ML, AI, or Software Development — always happy to share and learn!  
+💬 Ask me anything about ML, AI, or Software Development always happy to share and learn!  
 🚀 I'm also open to freelance opportunities in AI/ML — excited to collaborate and contribute to impactful projects!
 
 - 📫 How to reach me **sriram.alla68@gmail.com**
