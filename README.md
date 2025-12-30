@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi there, I'm Sri Ram 👋
+[![Website](https://img.shields.io/badge/Website-sriramalla.vercel.app-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://sriramalla.vercel.app)
+
 <img align="right" width="220"
      src="https://media1.tenor.com/m/1YXq17YXn98AAAAd/chill-dude-chill.gif"/>
 <br/>
@@ -7,7 +9,6 @@ I’m currently learning Backened and excited to build projects that bring ideas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sriramm-15&label=Profile%20Views&color=brightgreen)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://sriramalla.vercel.app)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriram_alla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramreddyalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriram.alla68@gmail.com) 
 -----------------------
