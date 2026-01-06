@@ -87,8 +87,7 @@ I’m currently learning Backened and excited to build projects that bring ideas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriramm-15&theme=dark" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sriramm-15&theme=microsoft-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sriramm-15)](https://git.io/streak-stats)
 ## 📈 Contribution Graph
 
 <img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sriramm-15&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff" />
