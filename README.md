@@ -88,6 +88,7 @@ I’m currently learning Backened and excited to build projects that bring ideas
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sriramm-15)](https://git.io/streak-stats)
+
 ## 📈 Contribution Graph
 
 <img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sriramm-15&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff" />
@@ -98,7 +99,7 @@ I’m currently learning Backened and excited to build projects that bring ideas
 
 <img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriramm-15&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 
----------------------------------------------
+--------------------------------------------
 
 <!-- <h3 align="left">🌐 Connect with me</h3>
 
