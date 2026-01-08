@@ -1,4 +1,4 @@
-# Hi there, I'm Sri Ram 👋
+# Hi there, I'm Sri Ram Alla👋
 [![Website](https://img.shields.io/badge/Website-sriramalla.vercel.app-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://sriramalla.vercel.app)
 
 <img align="right" width="220"
@@ -110,5 +110,4 @@ I’m currently learning Backened and excited to build projects that bring ideas
 <a href="https://www.codechef.com/users/srirammm_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srirammm_15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srirammm_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
 <a href="https://instagram.com/sriram_alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a> -->
-</P>
 
