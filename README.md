@@ -4,6 +4,7 @@
 <img align="right" width="220"
      src="https://media1.tenor.com/m/1YXq17YXn98AAAAd/chill-dude-chill.gif"/>
 <br/>
+
 I’m currently learning Java Springboot & Backened and excited to build projects that bring ideas to life.<br>🤖 Passionate about Machine Learning and Artificial Intelligence — I love exploring how tech can solve real-world problems.<br>💬 Ask me anything about ML, AI, or Software Development always happy to share and learn!<br>🚀 I'm also open to freelance opportunities in AI/ML — excited to collaborate and contribute to impactful projects!
 <br/>
 
@@ -72,7 +73,7 @@ I’m currently learning Java Springboot & Backened and excited to build project
 </section>
 
 ## 📊 GitHub Stats Summary
-
+<!-- <div> -->
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriramm-15&theme=dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriramm-15&theme=dark&utcOffset=5.5" />
@@ -88,17 +89,18 @@ I’m currently learning Java Springboot & Backened and excited to build project
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sriramm-15)](https://git.io/streak-stats)
+<!-- </div> -->
+
+
+## 🏆 GitHub Trophies
+
+<img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriramm-15&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 
 ## 📈 Contribution Graph
 
 <img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sriramm-15&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff" />
 
 <br><br>
-
-## 🏆 GitHub Trophies
-
-<img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=Sriramm-15&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
 --------------------------------------------
 
 <!-- <h3 align="left">🌐 Connect with me</h3>
