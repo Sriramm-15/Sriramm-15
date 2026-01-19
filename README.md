@@ -4,7 +4,7 @@
 <img align="right" width="220"
      src="https://media1.tenor.com/m/1YXq17YXn98AAAAd/chill-dude-chill.gif"/>
 <br/>
-I’m currently learning Backened and excited to build projects that bring ideas to life.<br>🤖 Passionate about Machine Learning and Artificial Intelligence — I love exploring how tech can solve real-world problems.<br>💬 Ask me anything about ML, AI, or Software Development always happy to share and learn!<br>🚀 I'm also open to freelance opportunities in AI/ML — excited to collaborate and contribute to impactful projects!
+I’m currently learning Java Springboot & Backened and excited to build projects that bring ideas to life.<br>🤖 Passionate about Machine Learning and Artificial Intelligence — I love exploring how tech can solve real-world problems.<br>💬 Ask me anything about ML, AI, or Software Development always happy to share and learn!<br>🚀 I'm also open to freelance opportunities in AI/ML — excited to collaborate and contribute to impactful projects!
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sriramm-15&label=Profile%20Views&color=brightgreen)
